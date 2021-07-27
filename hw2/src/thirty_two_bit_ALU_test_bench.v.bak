@@ -1,0 +1,39 @@
+`define DELAY 20
+module thirty_two_bit_ALU_test_bench();
+reg [31:0] b;  
+reg  ALUop2;
+reg [31:0] a;
+reg [31:0] less;
+reg [31:0] c;
+reg  ALUop0;
+reg  ALUop1;
+reg  zero;
+wire [31:0] carryout; 
+wire [31:0] result;
+  
+ thirty_two_bit   thirty_two_bit_ALU_test(result,carryout,a, b,c,ALUop2,less,ALUop0,ALUop1,zero);
+
+initial begin
+
+b =      32'b01001001000001000000100000001111;
+ALUop2 = 0;
+a =      32'b00001001000000000001000010000111;
+less =   32'b00001000010000000000000000000000;
+c =      32'b00000000000000000000000000000001;
+ALUop0 = 1;
+ALUop1 = 1;
+zero = 0;
+
+#`DELAY;
+
+
+
+
+
+end
+initial
+begin
+$monitor("carryout = %32b,\n", carryout);
+end
+ 
+endmodule

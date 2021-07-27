@@ -1,0 +1,21 @@
+Quartus II Archive log --	C:/Users/caner/Desktop/Yeni klasör/asd.qarlog
+
+Archive:	C:/Users/caner/Desktop/Yeni klasör/asd.qar
+Date:		Sun Nov 17 21:19:48 2019
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/caner/Desktop/Yeni klasör/asd.qpf
+C:/Users/caner/Desktop/Yeni klasör/asd.qsf
+C:/Users/caner/Desktop/Yeni klasör/db/asd.db_info
+C:/Users/caner/Desktop/Yeni klasör/for_xor.v
+C:/Users/caner/Desktop/Yeni klasör/incremental_db/compiled_partitions/asd.db_info
+C:/Users/caner/Desktop/Yeni klasör/mux_module.v
+C:/Users/caner/Desktop/Yeni klasör/one_bit.v
+C:/Users/caner/Desktop/Yeni klasör/thirty_two_bit.v
+C:/Users/caner/Desktop/Yeni klasör/thirty_two_bit_ALU_test_bench.v
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 10 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

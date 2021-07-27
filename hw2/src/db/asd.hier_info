@@ -1,0 +1,38 @@
+|one_bit
+r_i << mux_module:for_mux_module.port0
+c_i_plus << or_for_3.DB_MAX_OUTPUT_PORT_TYPE
+a => and_for_r0.IN1
+a => or_for_r1.IN1
+b => b.IN1
+c => and_for_3.IN1
+c => or_for_2.IN1
+alu_op_2 => alu_op_2.IN1
+less => ~NO_FANOUT~
+alu_op_0 => alu_op_0.IN1
+alu_op_1 => alu_op_1.IN1
+
+
+|one_bit|for_xor:call_xor
+out <= output_xor.DB_MAX_OUTPUT_PORT_TYPE
+a => first.IN0
+a => second.IN0
+b => second.IN1
+b => first.IN1
+
+
+|one_bit|mux_module:for_mux_module
+out <= output_that.DB_MAX_OUTPUT_PORT_TYPE
+a => and_1_2.IN1
+b => and_2_2.IN1
+c => and_3_2.IN1
+d => and_4_2.IN1
+s0 => and_3_1.IN0
+s0 => and_4_1.IN0
+s0 => and_1_1.IN0
+s0 => and_2_1.IN0
+s1 => and_2_1.IN1
+s1 => and_4_1.IN1
+s1 => and_1_1.IN1
+s1 => and_3_1.IN1
+
+

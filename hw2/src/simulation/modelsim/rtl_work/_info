@@ -1,0 +1,101 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\caner\Desktop\Yeni klasör\simulation\modelsim
+vfor_xor
+I>^X`e;=3>ml]mSMD8cZR43
+V>Re9^XCCBkk^b6A<7NJ[:0
+Z1 dC:\Users\caner\Desktop\Yeni klasör\simulation\modelsim
+w1573998497
+8C:/Users/caner/Desktop/Yeni klasör/for_xor.v
+FC:/Users/caner/Desktop/Yeni klasör/for_xor.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-work work -O0
+!i10b 1
+!s100 R9nV:X;MLoTDWGUn;_F@60
+!s85 0
+!s108 1574014880.957000
+!s107 C:/Users/caner/Desktop/Yeni klasör/for_xor.v|
+!s90 -reportprogress|300|-work|work|C:/Users/caner/Desktop/Yeni klasör/for_xor.v|
+!s101 -O0
+vmux_module
+IMa3mgeCcVdc`Z78Wem_8V2
+VmGoFQ_LR=2@IQcf84DX8[1
+R1
+w1573998474
+8C:/Users/caner/Desktop/Yeni klasör/mux_module.v
+FC:/Users/caner/Desktop/Yeni klasör/mux_module.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 4i^A3b4D[:4MW@5L@B@_L0
+!s85 0
+!s108 1574014881.207000
+!s107 C:/Users/caner/Desktop/Yeni klasör/mux_module.v|
+!s90 -reportprogress|300|-work|work|C:/Users/caner/Desktop/Yeni klasör/mux_module.v|
+!s101 -O0
+vone_bit
+IKnM>l2G<9S6FC9kWM3<Wo1
+Vl0@kI0cD>ZgTP_=nTTFDJ0
+R1
+w1574012666
+8C:/Users/caner/Desktop/Yeni klasör/one_bit.v
+FC:/Users/caner/Desktop/Yeni klasör/one_bit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 cOmVFlh;KNd^BN`N>Ak5D1
+!s85 0
+!s108 1574014881.427000
+!s107 C:/Users/caner/Desktop/Yeni klasör/one_bit.v|
+!s90 -reportprogress|300|-work|work|C:/Users/caner/Desktop/Yeni klasör/one_bit.v|
+!s101 -O0
+vthirty_two_bit
+I5oHl?U_bMkM0n>`cHnXR?0
+V;N=^n8ZBe6im@7h6oVR_O0
+R1
+w1573999634
+8C:/Users/caner/Desktop/Yeni klasör/thirty_two_bit.v
+FC:/Users/caner/Desktop/Yeni klasör/thirty_two_bit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 RkYb:E<oA1Xdk;`92DVFO3
+!s85 0
+!s108 1574014881.617000
+!s107 C:/Users/caner/Desktop/Yeni klasör/thirty_two_bit.v|
+!s90 -reportprogress|300|-work|work|C:/Users/caner/Desktop/Yeni klasör/thirty_two_bit.v|
+!s101 -O0
+vthirty_two_bit_ALU_test_bench
+!i10b 1
+!s100 Dn]Ik8LO=R0?QUU<cQK5g2
+I?<f9J@IgQl[U>^5^7<ZiR1
+VM1YbH5^H;C]CDIH2WSA3?0
+R1
+w1574014597
+8C:/Users/caner/Desktop/Yeni klasör/thirty_two_bit_ALU_test_bench.v
+FC:/Users/caner/Desktop/Yeni klasör/thirty_two_bit_ALU_test_bench.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1574014881.868000
+!s107 C:/Users/caner/Desktop/Yeni klasör/thirty_two_bit_ALU_test_bench.v|
+!s90 -reportprogress|300|-work|work|C:/Users/caner/Desktop/Yeni klasör/thirty_two_bit_ALU_test_bench.v|
+!s101 -O0
+R3
+nthirty_two_bit_@a@l@u_test_bench
